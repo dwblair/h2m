@@ -850,6 +850,110 @@ Sirens -- group of actresses and writers who are trying to use cinema / art to g
 -----
 policy panel
 
+------
+student panel
+
+students were 50/50 on sending people to mars
+
+'it's too risky and it's a lot of money'
+
+space exploration and military spending are two of the largest returns on investment
+
+------
+panel
+
+bill maher piece on mars
+
+seven minutes of terror
+JPL video
+really described the risks nicely, so that if things crashed, you know why they crashed
+
+-- idea:  lay out challenges of food on mars / space very clearly.. that's an important document to research and write -- this will drive the whole DARPA project
+-- THIS IS IMPORTANT
+
+risk of overpromising on hubble
+hubble ask example:  promised us the face of god
+
+penny boston:  astrobiology at ames
+
+'i would never cave with a daredevil'
+
+people who don't do it for the thrill, but are mission driven -- safer
+
+John Grunsfeld:
+
+risk is a very imprecise word
+we should have very different words for it
+personal risk
+reputation risk
+programmatic risk -- if space shuttle had blown up, could've been end of human spaceflight
+risk takers, risk managers perceive risk in very different ways
+after challenger, nasa got better at calculating risk 
+after columbia, made risk a fine art - built detailed models 
+now can assess ab initio probability of losing flight
+need to evaluate -- risk against what?
+risk against what
+grunsfeld is an astrophysicist
+
+tiffany:
+mistake from silicon valley perspective to think of risk as purely negative
+need to take risk in order to get anything done
+it's about adding value, making things better
+
+you may feel that human life is worth risking to get hubble into space
+but your organization may not feel that way
+
+in silicon valley, you celebrate risk
+
+but in military, failure is not an option
+silicon valley: failure is a great option, do it fast, often, iterate
+
+as we have more computing power, connectivity, there are going to be more and more internet tech / eccentric billionaires verging into space arena
+it's already happening and it can only grow from here
+
+so: better to embrace risk now as a tool for growth and innovation
+
+rick:
+risks that we don't even know b/c we've never attempted to go to mars
+we're good at understanding everything we've experienced, but it's the unknown unknowns
+
+we spend so much time focusing on few things
+
+orbital mechanics -- cut mechanics down
+but logistics is a major additional concern
+
+permanent settlement analogy:
+jamestown, 1607
+quebec city, 1608
+international space station, 2001
+
+field station analog:  mcmurdo, antarctica
+
+british national anarctic expedition: 1902
+permanent occuptation: 1955
+mcmurdo station today
+
+pre-xisting infrastructure from industry
+amundsen vs scott vs shackleton
+
+mars obviously has risks -- it's a fronteir, but those risks are manageable if we systematically break the problem down into parts
+we probably need to be more concerned about the risks we do not know about -- because we've never done this before
+let's learn the lessons of iss and other remote exploration efforts -- but adapt them to Mars as-is, not as we want it to be
+logistics / aggregation is a key tool to make risk more manageable
+there are other key lessons:  modularity, diverse systems, commonality of interfaces
+getting started -- even if not the end state that we ultimately want -- is key since getting ready for those missions and executing them will teach us more about how we will really do missions than a thousand studies
+first mission to iss was pretty simple in terms of hardware
+an analogous mission for mars could very well be a mars orbital mission
+
+penny:
+watching the robots from mit fail in the field because of moisture, scraping rocks
+there's no lesson like that lesson
+can then internalize those lessons
+cave camp for astronauts -- ESA
+put in the cave not because it's a cave, but because most of them aren't cavers
+puts them in a radically different head frame
+with limited amount of training
+very valuable
 
 
 
