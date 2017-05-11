@@ -1,0 +1,33 @@
+Skyline Food 
+
+Problems:
+
+-There is a lack of research into the nutritional content and attenuation of foods that astronauts eat in space. 
+
+-PhD food scientists involved with astronaut food plans often overlook nutrient content and view all calories as equal. These are the same people who analyze and package special food requested by astronauts.
+
+-MREs supplied by Natick Military are not gourmet quality that would be necessary for space tourism.
+
+Potential solutions:
+
+-Tailor diet plans for individual astronauts to reduce waste, and save money.
+
+-Collaborate with food scientists, artists, chefs and material scientists to make gourmet artistic meals that are designed for space (e.g. 3D origami meals that can only be eaten correctly in a microgravity environment)
+
+-Use spectroscopic analysis to measure nutrient attenuation of food in space 
+
+
+
+Timeline
+
+May and June 2017- Phase 1
+Literature research, professional networking, and sprints/hackathons
+
+July and August 2017 - Phase 2
+Make conclusions about Phase 1, if there seems to be a unique and potentially profitable niche then proceed to reach out to potential collaborators and customers 
+
+September and October 2017 - Phase 3
+Work with collaborators and customers to develop product timeline, outline and prototype
+
+
+Note: I do not see a need for a farm as much as I see the need for a food lab or a lab that can replicate the conditions on mars or replicate an indoor grow space that could be used in space.

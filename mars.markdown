@@ -1,4 +1,4 @@
-flexible
+fexible
 need to find overlaps, points of synergy
 public-private partnerships
 wouldn't have expected the # of companies in the space, 10 years ago
@@ -954,6 +954,521 @@ put in the cave not because it's a cave, but because most of them aren't cavers
 puts them in a radically different head frame
 with limited amount of training
 very valuable
+
+grunsfeld:
+critical that you do field work
+kind of things that you would do comfortably in your garage or in a lab at mit
+we should use ISS as a mars experiment -- getting back from ISS and landing on earth can be our initial test
+point: we should use the cheap analogs we currently have
+-- lesson: what can we do on current farms / with skyline to draw down risks for technologies
+
+tiffany:
+the lines are blurring between technologies and industries
+you will have more players in the field who were not there before
+they will have the technical chops -- they will not know what they don't know -- allowing them to do great things -- but sometimes leads them to be cavalier
+
+grunsfeld:
+nasa needs to answer to congress and american public -- cannot fail
+
+rick:
+why does nasa not have a mars program 
+russians are reusing very old technology
+but it works, it's economical
+
+ISS does commercial integration and international partner intergration
+really nice example to pattern off of
+-- what if we pattern off of this?
+
+make risk of mars as low as reasonably we can
+if we try to make it risk free, we'll never go
+
+we know orders of magnitude more about how to execute a mars mission than the apollo mission did when they started
+
+when you look today at UAE, other countries
+all with significant space capabilities
+there is a tremendous skill set
+
+we have so much more computing power
+
+highly recommended:
+risk and exploration -- earth, sea, and the stars
+
+---------
+day 2
+
+--------
+first panel:
+
+why is now different? why will we get to mars?
+
+social engineering that went into connecting us to russia 
+we can't go to mars unilaterally
+lots of work done on space station on bringing together various parties
+to bring about an international trip to mars
+
+technically lots of advances enable travel to mars
+3d printing in space
+worried about politics and resources
+not a big fan of bumper sticker dates like 2033
+
+'a vision without resources is just a hallucination'
+2009 report:  needed 3 bill a year more
+worry that maybe only the entrepreneurs can do it
+not entireley optimistic
+
+we now know what we don't know
+we know we have to land a 40 ton spacecraft on mars
+we know we need a closed-loop life support system
+we've laid out all the key technical challenges we need to address
+
+-- what resources are required for full closed-loop life support?  is it possible for people to do that on earth, given ininfite energy and resources?  what if limited energy and resources?
+
+worry: what does a new administration do with nasa's existing plans?
+
+'destinations don't matter vs destinations matter'
+
+do destinations matter? is mars special?
+
+Germans were plotting trajectories to Mars in 1930s
+They always thought there should be a fallback planet
+Brings people together
+
+There's been a consensus for decades that Mars is the goal
+
+The challenge has been what steps to take there -- is the moon in, is the moon out
+There are a lot of little stove pipes, people supporting one project or the other
+Dilutes the enthusiasm -- instead of people focusing on the goal, they end up advocating for their own project
+Would help the effort if there was more of a consensus in the community
+It's more important to get there in a sustainable way than to get there by a specific date
+-- This is a huge point for IMFS  
+
+Creating infrastructure is important
+Don't just want to get there
+Can this process of going to Mars support the infrastructure for all these other things that people want to do
+Rather than: just this race to Mars, plant a flag, and then go back in 50 years -- like we did with the moon
+
+National Space Council - good thing? Bad thing? 
+
+Forward movement really depends on personalities
+
+Hope is that NSC will cut through the stovepipes
+
+A lot of negative talk on China
+How will the larger geopolitical situation affect mars project
+
+Concerns about rise of China
+Concern that China's space program might have military applications that would 
+Congress trying to make sure that we can't cooperate with China on bilateral projects
+
+If we're going to do gov't led program, needs to be international -- and hard to do without China
+
+Can the Mars mission be a way of improving relations with China, as space was re: Russians in past?
+
+There are also partners beyond China as well -- UAE, India, ESA 
+Regardless of whether China is involved, any gov't program will need a lot of international cooperation
+
+NASA is the only country that is not engaged in bilateral relations with China
+All the other countries are
+
+People refer to the Wolf Amendment re: no bilateral agreements with china
+Concerns about human rights in China
+
+Perhaps also using competition with China as a motivator?  
+
+China is a military program
+2011 had done their space walk
+
+China is planning on space station operation in 2022
+A lot of our international partners are already looking at opportunties to cooperate with China
+Their resources will be on par with what we have now
+
+Thinks it's inevitable that at some point we're going to cooperate with China
+doesn't think we're as conflicted with China as we were with Russia -- less of an issue
+
+It's not a black and white issue
+Summary: eventually we're going to need to coordinate with them.
+
+low-noise fiber optic cable
+additive manufacturing
+drug manufacture
+can the ISS be used as an off-planet production facility?
+
+To get ISS to self-sustain (off NASA's budget)
+There has to be a forcing function from user community, or non-NASA supply community
+Some commercial station program will / should be started
+
+Realization now is that ISS will be much more gradual
+
+We're all part of the 'nerd public'
+
+How do we reach the public? How do we keep the public engaged?
+-- Here's another way in which food applications to earth might be an applicatoin
+-- Make connections between Nautilus and space exploration
+
+Answer: smoke and fire
+Bring back good pictures
+
+If NASA's not out there, there are lots of other entities out there expressing enthusiasm... it's a matter of leadership and organizing
+
+-- need to look into asteroid mining more -- what are the real opportunities
+
+Need a steady cadence of Mars missions
+
+Question: how to work with China?
+
+Previous administration was definitely interested in working with China
+Strictly bilateral is prohibited, but there is multilateral, and a lot of personal relationships in science
+
+At this point it might be too early to say
+
+Idea of citizen science involvement
+Really wanted citizen engagement to be an integral part of program, in a meangingful way
+How do you use prizes and challenges to engage people across the board
+
+-- really feel like 'prizes and challenges' isn't so meaningful -- much more meaningful to have direct participation 
+-- maybe the closed-loop systems for farming would have this impact
+
+Q: economic competition, nation-state interest, scientific interest -- how did we get 
+
+Christopher Columbus entepreneur convinces queen ...
+There is more to exploration of space than just coming together
+There was conflict as soon as there was resources
+
+How can we go about this in ways that avoid this competition
+
+We haven't found the killer app in space to drive people into conflict yet -- not sure that will change:w
+
+----
+
+Mars is hard. Don't make it any harder than you have to. 
+Just do the things that you need to do to get there. 
+
+
+Pascal:
+
+Another approach to affordability is to 'sell the cost'
+-- big idea
+
+Laundry list of reasons to go to mars
+science
+exploration
+adventure
+commerce
+jobs
+educatoin
+resources
+journey
+tourism
+retreat
+spin-offs
+store waste
+enetertainment
+lock bock at the earth
+save the earth
+human experience
+national prestige
+national security
+technological leadership
+executive legacy
+international cooperation
+migration / colonization/space settlement
+start a new branch of human civilization
+beocome a multiplanet species
+human destiny
+'because we need the challenge'
+already been to the moon
+the chinese are going
+the europeans are trying
+it is there
+it is clean
+it'd be cool
+why not
+to boldy go
+establish a new colony of convicts
+
+main point:  scott expedition was about response to perceived threat, not about science
+science will document your activity, but not your motivation for going
+still true about NSF and antarctica program
+justification on surface is fantastic science in collaborative env
+but truth is that it could not be justified if not for geopolitics of needing to be there
+science is not what motivated the congressmen 
+
+so: we have to find a compelling reason to go to mars that can justify expenditure
+
+apollo program:
+1. show soviet union that there's a better way
+2. the science
+3. national interest
+
+STEM Force
+Number of grad degrees awarded in the USA
+Doubling of # of people getting degrees in science because of Apollo 
+
+Right now there is an entire generation of young people in China that are enthralled by their current moon program -- 
+
+So the strongest argument for peacetime space exploration is to build a "STEM Force" -- to protect our economy, our competitiveness, our way of life
+
+So it's about building and maintaining our STEM Force
+
+We can do it alone, but can't afford it alone.
+
+water sources on mars:
+Atmosphere
+Polar Caps
+Ground-ice
+Active gullies / recurrent slope lineae
+hydrated minearls
+polyhydrated salts
+glacier and rock glaciers
+
+Houghton-Mars Project research station
+
+-----
+panel 2:
+
+we need to be able to shape space, because of our dependency on it
+communications, security, economic, scientific, agriculture (satellite tech)
+our natl security and economic interests are going to be harmed
+anything that pushes people away is harmful to us
+moon is a bold form of leadership
+leadership today is about: what can i convince people to do with me
+open architectures
+providing points of access for other countries to participate with us
+our national interests will be advanced
+
+if our archictecture is limited to ourselves and russians, say
+then our national interests will be harmed 
+
+by leading an international endeavor
+we enable private success
+we enable a broader set of 
+america first does not mean america alone
+we want to be the indispensible partner that is at the center of this growing and global network
+
+to the extent that we enable opps for others who can pursue their self interest with us, we become stronger
+
+the role of NASA should be to enable participation
+NASA provides the ability to get there in collaboration with others
+NASA would lead science exploratoin
+
+the space station is a great example of collaboration
+
+point: there are too many things for NASA to lead
+NASA can establish the gateway, offer this infrastructure
+
+-- key point -- this is how you lead -- you become indispensible partner
+
+re: leadership
+one thing that NASA can do is lead re: standards
+lesson from ISS: lots of international standards for electronics
+
+e.g. NASA has put out standard for docking
+if you're interenationl anyone, you can join us as long as you comply with standards
+NASA is going to release drafted standards for public comment
+
+-- how could we follow this model in agriculture?
+
+laying foundations for future partnerships
+
+what sort of organization is required to sustain effort on mars?
+what is the society that might enable this?
+need to look at the social architecture that would enable this?
+
+not just getting to mars and flags and footprints
+it's about developing international coordination and the social technologies necessary
+
+what are the things that i need to be doing today that create this opportunity?
+be careful you don't end up in dead ends -- need overarching vision
+
+shouldn't be fixated on: getting someone on surface before i die
+need to move everyone to point where: it's a sustainable effort and coordinated
+
+the importance of all the international stakeholders in achieving mars
+government led, thin infrastructure
+creates opportunities for international partners, businesses, projects
+creates opportunities we can't yet imagine
+creates stakeholder base beyond low-earth orbit
+
+create opportunities to expand the stakeholder base beyond the usual suspect
+provide wider opportunities
+
+having a space effort that meets the needs of our international stakeholders
+speaks to diplomatic, security and economic interests
+
+the key to success is tangible results in the near term
+we need a signficant cadence of successes
+hey look, we really are on this path to space exploration
+
+------
+panel
+
+
+ea country has its own rationale, culture, goals
+china
+uae focused on mars
+esa, russian, us -- focused on mars and moon
+
+the trend is toward divergence
+strong leadership could address this 
+
+motivations:
+are we headed to an era of increased cooperation, or narrow interest?
+
+responsible and peaceful use of space
+free and open data
+could the iss partnership be a symbol today
+
+are shared principles needed or required to develop mars settlement
+projects may need to be structured to allow for independent entities pursuing their own interests
+
+e.g. common infrastructure in space
+ea partner maintaining their own drone modules
+
+rapid emergence of private companies with sig. capabilities
+
+
+we're going to do mars globally -- we have to
+the issue is: how do we preserve national interests while allowing for collaboration
+nsf and science diplomacy
+
+we want to work with the best in the world in science
+
+access expertise, facilities, data, and research environments
+leverage limiated resources
+exchange insights and techniques
+address national transnational and global challenges
+
+nurture capable young researchers with strong networks overseas
+develop a global perspective
+facilitate mobility and brain circulation
+
+we want to get connections abroad
+NSF wants to fund research abroad
+
+when we collaborate, we innovate better
+scientists love to argue with one another
+different perspectives that are brought 
+
+science diplomacy
+imrpoving relations between groups or countries
+skill in dealing with people
+
+expand on common themes in science diplomacy
+
+improving connections between and among countries
+
+science for diplomacy
+science and technology agreements
+embassy science fellows
+women in science activities
+scientific excellence <---> foreign policy objectives
+
+diplomacy for science
+commons spaces 
+polar reegions
+open ocean
+space
+airwaves
+
+overcome obstacle to science collaboration
+
+AAAS fellows
+Jefferson Fellows
+
+US Antarctic Progam -- great avenue for science diplomacy
+
+Talal Al Kaissi
+US / UAE Bilateral Space Relationship
+
+Leadership in UAE has had vision that we won't be dependent on hydrocarbons, from inception of country
+
+The UAE was very dependent on the pearl diving industry
+A Japanese entrepreneur invented the cultured pearl -- higher quality, easier to produce, less risks involved
+Economic crisis
+So, upon discovery of oil, wanted to employ strategy of diversification -- didn't want to be dependent on single source of energy
+Create logistical infrastructure: ports, free zones, airports -- creating connection between east and west
+Competitive labor, cheap energy 
+
+symbol of hope
+uae space industry
+knowledge and skills
+
+------
+panel
+
+watson
+Grady Booch
+IBM Fellow
+
+grand challenge inside IBM to do jeapoardy challenge
+
+Watson/M
+
+embodied cognition
+
+- liveness
+- personalization
+- agency
+
+an embodied cognitive agent must 
+- be in and of hte world
+- reason
+- learn
+- have identity
+
+watson needs to give reasons
+if watson says x,
+we say: what if we change conditions? how does that change your assessment?
+
+it's not necessarily a bad thing to impose an identity
+we impose a theory of mind on it, because frankly it is building a theory of mind of me
+
+embodiment offers far more than simple request / response
+conversation is but one modality of human/computer interaction
+liveness is essential for a meaningful cognitive experience
+
+cobots
+
+collaboration and dealing with non-rigid objects
+
+ibm watson looks at mars as a great grand challenge
+can't rely on mission control on earth -- need to take mission control with me
+watson in the walls
+
+framing problem:
+the characteristics of bringing embodied cognition to mars is what we needed to do
+could we architect such a system?
+
+architecture of watson in the walls
+signal AI
+symbolic AI
+brings toether hybrid
+neural networks on edge for signal AI
+symbolic AI in the center
+
+agent-based system -- minsky
+society of mind
+
+an embodiment of thousands of agents concurrently doing things
+agents doing things in parallel
+blackboad for communication
+subsumption architecture
+
+there is an existence proof
+purely neural network organisms can be architectured in layered fashion
+reflexes, autonomic
+skills
+agents, goals, plans, execution at top
+plans could be scripted, expert, or learned
+
+----
+
+differentiate between space for security and space for science
+ITAR
+
+question:
+what if we end up with us, chinese, and spacex independent bases on mars?
+how do we get them to all play by the same rules?
 
 
 
