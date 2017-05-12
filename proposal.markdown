@@ -102,4 +102,71 @@ So, the recommendation is to call the umbrella organization "Skyline, Inc" -- an
 Then, under that umbrella, Decode, Sklyine Farm, and IMFS have their distinct (but also overlapping) areas of focus.  These areas of focus can evolve over time, merge, or become more distinct.  
 
 
+-----------------------------
+
+
+IMFS ideas
+
+get uniforms 
+laptop sticker
+logo
+
+MRE / HDR
+quality control
+decentralized production
+
+packaging
+standardized food containers
+reusable food containers
+3d printing
+packaging sensors
+packaging illuminate portals
+
+hydroponics
+growing fresh garnishes
+
+impregnated packaging matrerial
+release nutrients 
+
+radiation shielding
+microbes
+
+microbes that are sensitive to radiation
+algae
+crickets
+
+distribution
+pressure packaging
+
+co2
+
+principles of the k2
+leverage the environment
+
+packages that produce energy 
+filter water
+include a straw
+
+
+air conditioning
+
+food machine like the soda machine
+
+diversity of food types
+cultural 
+
+cricket chocolate gun
+shapes that can't exist on earth
+
+space apron / bib / 
+spring-loaded laudnry hamper
+
+same rice different sauce TM
+
+  
+
+
+
+
+
 
